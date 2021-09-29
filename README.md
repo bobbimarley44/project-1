@@ -1,4 +1,4 @@
 # project-1
-The starting point for a twitter bot, inspired by Christopher Strachey's love letter generator
+This very simple twitter bot posts affirmations to twitter to aid in eating disorder recovery.
 
-For the class "Radical Software", Eugene Lang College, Fall 2021
+For the class "Radical Software", Eugene Lang College, Fall 2021.
